@@ -1,2 +1,2 @@
 # beecrowd
-uns exercicicios da beecrowd/uri
+Exercises from beecrowd
